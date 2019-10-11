@@ -1,7 +1,6 @@
 <style>
 	div.a {
 	position: absolute;
-	text-align: center;
 	width: 400px;
 	height: 220px;
 }
