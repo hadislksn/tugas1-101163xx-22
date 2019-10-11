@@ -2,7 +2,7 @@
 	div.a {
 	position: absolute;
 	margin-top: -100px;
-	margin-left: -100px;
+	margin-left: -200px;
 	left: 50%;
 	top: 25%;
 	width: 400px;
