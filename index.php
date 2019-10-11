@@ -1,8 +1,6 @@
 <style>
 	div.a {
 	position: absolute;
-	margin-top: -100px;
-	margin-left: -200px;
 	text-align: center;
 	width: 400px;
 	height: 220px;
