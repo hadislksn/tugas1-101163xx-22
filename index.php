@@ -2,9 +2,9 @@
 	div.a {
 	position: absolute;
 	margin-top: -100px;
-	margin-left: -50px;
+	margin-left: -100px;
 	left: 50%;
-	top: 50%;
+	top: 25%;
 	width: 400px;
 	height: 220px;
 }
@@ -12,7 +12,7 @@
 
 <div class ="a">
 <?php
-	echo "<table border = '2' >";
+	echo "<table border = '1' >";
 	echo "<tr>";
 	echo "<td> NIM </td>" ;
 	echo "<td> 10116303 </td> " ;
