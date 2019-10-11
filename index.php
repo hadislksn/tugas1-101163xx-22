@@ -3,8 +3,7 @@
 	position: absolute;
 	margin-top: -100px;
 	margin-left: -200px;
-	left: 50%;
-	top: 25%;
+	text-align: center;
 	width: 400px;
 	height: 220px;
 }
